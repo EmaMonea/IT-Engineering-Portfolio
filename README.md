@@ -22,14 +22,16 @@ While one of the downsides is occasionally a longer name that acceptable, I thin
 In every project folder you will be able to find a README.md at the root of the project.
 The objective of that README is to explain what the project is about. More details about the context of the project are found in the `context` folder.
 
+```
 |.
-├── context                 # Specs definition, budget, real prices, floor plans, images, it requiriments
-├── infrastructure          # Implementation of hardware. From cabling to choices of endpoints
+├── context                 # Specs definition, budget, real prices, floor plans, images, it requirements
+├── infrastructure          # Implementation of hardware. From cabling to choices of endpoints.
 ├── configuration           # every OS, tablet, phone, network device, AP etc. 
-├── src                     # Every additional tools that requires software. a website, custom stuff 
+├── src                     # Every additional tools that requires software.
 ├── security                # security analysis and implementation
 ├── testing                 # Every testing done on code and infrastructure
 ├── monitoring              # monitoring tools for everything
 ├── backup-and-recovery     # procedure implementation for back and disaster management
 ├── docs                    # documentation that will be delivered to the client
 └── README.md
+```
