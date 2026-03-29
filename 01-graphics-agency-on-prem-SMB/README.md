@@ -1,4 +1,4 @@
-## Project description
+# Project description
 
 DreamMaker Studio is a creative agency with 1 CEO + 15 employees located in Northern Italy specializing in digital graphics, video production, and 3D rendering. Over the past year, 4K video production has become more frequent, and they've also landed clients requiring static 3D modeling and, occasionally, the inclusion of 3D models in videos.
 
@@ -10,7 +10,7 @@ What prompted them to take action was a hard drive failure that resulted in the 
 
 Thus, they want to implement a resilient structure keeping internal storage with limited external access from the CEO and the sales people. 
 
-The working force is as follows:
+## Working force
 * Company owner/CEO. He's a VFX artist but doesn't work as one. He has a laptop because he often works from anywhere. He's responsible for maintaining relationships with major clients, the company's vision, and its expansion. He wants a secure way to access his data remotely. He holds a lot of webcam conferences.
 * 2 salespeople. The two salespeople have a personal tablet that they use only for work purposes. They manage schedules, appointments, and take notes on negotiations. They rarely appear in the office and mainly interact with the project manager and the administrative staff as they bring contracts/take them and confirm the feasibility (and correct margin).
 * 1 Project manager: uses a laptop. After the order is placed, he or she goes to the clients to manage the project, provide presentations, and handle specific technical matters. He or she uses a laptop but has a monitor and a workstation in the office.
