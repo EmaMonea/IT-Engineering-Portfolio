@@ -29,4 +29,4 @@ Software licenses of any kind are not included.
 Their office is located on the ground floor of a building measuring approximately 20 meters x 13 meters. The office has a height of 2.7 meters + 20 cm of suspended ceiling.
 They have a front office with one desk, a conference room, an open space for production, a CEO office, a server room, a kitchen and a bathroom.
 
-You can find the full floor plan details, including images and some basic renders in the "spaces" folder.
+You can find the full floor plan details, including images and some basic renders in the `context/spaces` folder.
