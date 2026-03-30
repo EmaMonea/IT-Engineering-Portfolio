@@ -1,4 +1,4 @@
-# Project description
+# Client profile
 DreamMaker Studio is a creative agency with 1 CEO + 15 employees located in Northern Italy specializing in digital graphics, video production, and 3D rendering. Over the past year, 4K video production has become more frequent, and they've also landed clients requiring static 3D modeling and, occasionally, the inclusion of 3D models in videos.
 
 Last year, they budgeted to overhaul their entire IT infrastructure for two reasons: 
@@ -22,11 +22,11 @@ Thus, they want to implement a resilient structure keeping internal storage with
 * 1 person handles 3D modeling. Dedicated workstation. Mainly uses Blender and 3ds Max. 
 * 1 person handles data wrangling and video script management.
 
-The allocated budget for everything, including margin, is expected to be €69,500 in the first year. 
-Software licenses of any kind are not included.
 
 ## Spaces
 Their office is located on the ground floor of a building measuring approximately 20 meters x 13 meters. The office has a height of 2.7 meters + 20 cm of suspended ceiling.
 They have a front office with one desk, a conference room, an open space for production, a CEO office, a server room, a kitchen and a bathroom.
 
-You can find the full floor plan details, including images and some basic renders in the `context/floor-plan-and-images` folder.
+You can find the full floor plan details, including images and some basic renders in the `floor-plan-and-images` folder.
+
+## Requirements
